@@ -52,9 +52,7 @@ void setup() {
 
 ## Compatibility
 
-- ESP32 (classic) — GPIO bank 0 & 1
 - ESP32-S3 — GPIO bank 0 & 1
-- **Not compatible with ESP32-C3** (only has GPIO 0–21, no bank 1)
 
 ## PlatformIO
 
