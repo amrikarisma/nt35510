@@ -62,9 +62,3 @@ void setup() {
 lib_deps =
     https://github.com/amrikarisma/nt35510.git
 ```
-
-For ESP32-C3 builds, add:
-
-```ini
-lib_ignore = MRB3971
-```
